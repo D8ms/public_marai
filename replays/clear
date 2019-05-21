@@ -1,0 +1,10 @@
+rm tmp/env_0/*.bmp
+rm tmp/env_1/*.bmp
+rm tmp/env_2/*.bmp
+rm tmp/env_3/*.bmp
+rm tmp/env_4/*.bmp
+rm tmp/env_5/*.bmp
+rm tmp/env_6/*.bmp
+rm tmp/env_7/*.bmp
+rm tmp_*
+rm -r pb/*

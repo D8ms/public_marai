@@ -29,6 +29,8 @@ Both runners will save tensorboard files in summary/
 
 ## Replays
 
+![alt text](/saliency_map.png?raw=true "Saliency Map")
+
 If you use the non-gym runner with the "record" flag, the runner will record personal bests for each environment. You can then use make_video.py to create a video of any saved run. The video will display a saliency map of the surprisals, as well as action taken. This will take gigabytes of disk space to store.
 
 ```
